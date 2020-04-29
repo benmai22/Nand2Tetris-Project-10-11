@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=JackTokenizer
+comment1.params=sourceCode
+comment1.target=JackTokenizer(java.io.File)
+comment2.params=
+comment2.target=java.util.List\ tokenize()
+comment3.params=line
+comment3.target=java.lang.String\ removeLineComment(java.lang.String)
+comment4.params=character
+comment4.target=boolean\ isSpace(char)
+comment5.params=character
+comment5.target=boolean\ isSymbol(char)
+numComments=6

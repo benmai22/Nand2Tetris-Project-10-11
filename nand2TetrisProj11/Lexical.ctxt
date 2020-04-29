@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Lexical
+comment1.params=type\ lecical
+comment1.target=Lexical(Lexical.Type,\ java.lang.String)
+comment2.params=
+comment2.target=Lexical.Type\ getType()
+comment3.params=type
+comment3.target=void\ setType(Lexical.Type)
+comment4.params=
+comment4.target=java.lang.String\ getLecical()
+comment5.params=lecical
+comment5.target=void\ setLecical(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=token
+comment7.target=Lexical\ fromString(java.lang.String)
+numComments=8

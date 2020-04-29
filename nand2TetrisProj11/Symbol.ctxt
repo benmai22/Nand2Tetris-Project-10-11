@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Symbol
+comment1.params=name\ type\ kind\ no
+comment1.target=Symbol(java.lang.String,\ java.lang.String,\ Symbol.Kind,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment5.params=type
+comment5.target=void\ setType(java.lang.String)
+comment6.params=
+comment6.target=Symbol.Kind\ getKind()
+comment7.params=kind
+comment7.target=void\ setKind(Symbol.Kind)
+comment8.params=
+comment8.target=int\ getNo()
+comment9.params=no
+comment9.target=void\ setNo(int)
+numComments=10
